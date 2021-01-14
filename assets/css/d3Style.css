@@ -1,5 +1,5 @@
 .aText {
-  font-family: sans-serif;
+  font-family: "Euclid Fraktur", "Old English Text MT", fantasy, serif;
   font-size: 16px;
   text-anchor: middle;
 }
@@ -48,8 +48,11 @@
   color: #fff;
   text-align: center;
   text-transform: capitalize;
-  background: rgba(0, 0, 0, 0.8);
+  background: rgba(50, 46, 46, 0.8);
   border-radius: 4px;
+  top: 60%;
+  left: 50%;
+  margin-left: -60px;
 }
 
 /* Mobile Rules */
